@@ -1,0 +1,9 @@
+noisereduce
+soundfile
+pyaudio
+webrtcvad
+wave
+pydub
+openai
+smbus2
+Adafruit_SSD1306
