@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/up.png</file>
+    <file>images/down.png</file>
+    <file>images/add.png</file>
+    <file>images/delete.png</file>
+    <file>images/down-dev.png</file>
+    <file>images/erase.png</file>
+    <file>images/hand.png</file>
+    <file>images/insert.png</file>
+    <file>images/integ-file.png</file>
+    <file>images/open-file.png</file>
+    <file>images/save-file.png</file>
+    <file>images/run.png</file>
+    <file>images/reset.png</file>
+    <file>images/reset-servo.png</file>
+    <file>images/rang.png</file>
+    <file>images/read-dev.png</file>
+    <file>images/play-music.png</file>
+    <file>images/pause-online.png</file>
+    <file>images/index.png</file>
+    <file>images/TonyPiUi.png</file>
+  </qresource>
+</RCC>

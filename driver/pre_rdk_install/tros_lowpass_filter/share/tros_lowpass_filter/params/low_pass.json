@@ -1,0 +1,61 @@
+{
+  "types": ["face", "face_kps", "hand", "hand_kps", "head", "body", "body_kps", "default"],
+
+  "face": {
+    "dcutoff": 1.0,
+    "beta": 0.02,
+    "mincutoff": 0.01,
+    "freq": 120
+  },
+
+  "face_kps": {
+    "dcutoff": 1.0,
+    "beta": 0.2,
+    "mincutoff": 0.01,
+    "freq":  120
+  },
+  
+  "hand": {
+    "dcutoff": 1.0,
+    "beta": 0.1,
+    "mincutoff": 0.01,
+    "freq": 120
+  },
+
+  "hand_kps": {
+    "dcutoff": 1.0,
+    "beta":  0.1,
+    "mincutoff": 0.01,
+    "freq":  120
+  },
+    
+  "head": {
+    "dcutoff": 1.0,
+    "beta": 0.1,
+    "mincutoff": 0.01,
+    "freq":  120
+  },
+
+  "body": {
+    "dcutoff": 1.0,
+    "beta": 0.02,
+    "mincutoff": 0.01,
+    "freq":  120
+  },
+
+  "body_kps": {
+    "dcutoff": 1.0,
+    "beta": 0.02,
+    "mincutoff": 0.01,
+    "freq":  120
+  },
+
+  "default": {
+    "dcutoff": 1.0,
+    "beta": 0.1,
+    "mincutoff": 0.01,
+    "freq":  120
+  },
+
+  "desc": "'beta' is to reduce the delay to target, larger beta, faster tracking. 'mincutoff' is to reduce the vibration of the bbox and lmk point, less mincutoff, less vibration"
+}

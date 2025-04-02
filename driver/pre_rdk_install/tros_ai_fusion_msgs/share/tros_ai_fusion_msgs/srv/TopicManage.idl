@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from tros_ai_fusion_msgs/srv/TopicManage.srv
+// generated code does not contain a copyright notice
+
+
+module tros_ai_fusion_msgs {
+  module srv {
+    module TopicManage_Request_Constants {
+      const string ADD = "add";
+      const string DELETE = "delete";
+      const string GET = "get";
+    };
+    struct TopicManage_Request {
+      string action;
+
+      sequence<string> topics;
+    };
+    struct TopicManage_Response {
+      boolean result;
+
+      sequence<string> topics;
+    };
+  };
+};

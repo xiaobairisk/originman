@@ -1,0 +1,8 @@
+source;share/face_landmarks_detection/hook/cmake_prefix_path.ps1
+source;share/face_landmarks_detection/hook/cmake_prefix_path.dsv
+source;share/face_landmarks_detection/hook/cmake_prefix_path.sh
+source;share/face_landmarks_detection/local_setup.bash
+source;share/face_landmarks_detection/local_setup.dsv
+source;share/face_landmarks_detection/local_setup.ps1
+source;share/face_landmarks_detection/local_setup.sh
+source;share/face_landmarks_detection/local_setup.zsh
